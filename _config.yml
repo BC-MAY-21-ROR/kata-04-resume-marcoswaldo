@@ -2,7 +2,7 @@
 
 # Site Settings
 title: BrightCoders Academy
-url: '' #'http://webjeda.com'
+url: 'https://bc-may-21-ror.github.io/kata-04-resume-marcoswaldo/' #'http://webjeda.com'
 baseurl: '' #change it according to your repository name
 # Style will be applied only after restarting the build or serve. Just choose one of the options.
 theme_skin: orange # blue turquoise green berry orange ceramic
